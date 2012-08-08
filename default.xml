@@ -272,4 +272,7 @@
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
 
   <project path="android" name="s0be/android" />
+
+  <!-- For development, going to force my device tree to sync, rather than modify the CM way of doing this -->
+  <project path="device/htc/shooter" name="s0be/android_device_htc_shooter" />
 </manifest>
