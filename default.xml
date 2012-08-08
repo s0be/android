@@ -275,4 +275,5 @@
 
   <!-- For development, going to force my device tree to sync, rather than modify the CM way of doing this -->
   <project path="device/htc/shooter" name="s0be/android_device_htc_shooter" />
+  <project path="kernel/htc/shooter" name="s0be/android_kernel_htc_shooter" />
 </manifest>
